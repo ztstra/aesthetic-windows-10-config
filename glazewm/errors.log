@@ -1,0 +1,7 @@
+[2m2025-08-21T00:54:59.010728Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-08-21T02:28:24.618780Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[19].commands: unrecognized subcommand
+ at line 177 column 15
+[2m2025-08-21T02:37:58.046335Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[19].commands: unrecognized subcommand
+ at line 177 column 15
