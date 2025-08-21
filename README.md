@@ -1,9 +1,11 @@
 # My Windows 10 Config
 ![cli screenshot](screenshot.png)
 ![desktop screenshot](screenshot2.png)
-
+  
+Terminal opens with a random image. Add images into i/wezterm/backdrops/
+  
 Desktop wallpaper: https://wallhaven.cc/w/gw7z33
-
+  
 > The fonts I use with this config are Fira Code and JetBrains
 
 # Intro
