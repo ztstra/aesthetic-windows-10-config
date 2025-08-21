@@ -15,8 +15,7 @@ As my config is just theirs stitched together.
 
 Window Manager: GlazeWM https://github.com/glzr-io/glazewm  
 Terminal: Wezterm https://wezfurlong.org/wezterm/index.html  
-Topbar: Zebar https://github.com/glzr-io/zebar  
+Topbar: Zebar https://github.com/glzr-io/zebar 
 
 
 
-j
