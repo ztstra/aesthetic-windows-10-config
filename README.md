@@ -2,7 +2,7 @@
 ![cli screenshot](screenshot.png)
 ![desktop screenshot](screenshot2.png)
   
-Terminal opens with a random image. Add images into i/wezterm/backdrops/
+Terminal opens with a random image. Add images into /wezterm/backdrops/
   
 Desktop wallpaper: https://wallhaven.cc/w/gw7z33
   
